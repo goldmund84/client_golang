@@ -30,4 +30,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-exclude github.com/prometheus/client_golang v1.12.1
+#exclude github.com/prometheus/client_golang v1.12.1
