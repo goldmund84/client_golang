@@ -1,4 +1,4 @@
-module github.com/prometheus/client_golang
+module github.com/goldmund84/client_golang
 
 go 1.20
 
